@@ -1,0 +1,15 @@
+.items {
+  list-style: none;
+  margin-right: 30px;
+  font-size: 22px;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 5px;
+  padding-top: 20px;
+  text-decoration: none;
+  align-items: center;
+  color: #42dbc7;
+}
+.items:hover {
+  color: rgb(221, 5, 5);
+}

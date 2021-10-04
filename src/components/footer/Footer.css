@@ -1,0 +1,9 @@
+.footer-container{
+    background-color: #42dbc7;
+}
+.btn{
+    background-color:aquamarine ;
+}
+.btn:hover{
+    background-color: rgb(99, 110, 107);
+}
