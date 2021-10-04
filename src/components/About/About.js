@@ -9,7 +9,7 @@ const About = () => {
       <h1 className='title p-3'>About Our Company</h1>
         <div className="row">
         <div className="col-lg-6 images">
-         <img  src="https:previews.123rf.com/images/maximleshkovich/maximleshkovich1905/maximleshkovich190500144/125135873-minimalist-home-office-desk-workspace-with-laptop-cactus-and-palm-on-beige-background-front-view-cop.jpg" class="img-responsive" alt=""/>
+         <img  src="https://msqtecnologias.ao/wp-content/uploads/2021/06/course-3.jpg" class="img-responsive" alt=""/>
         </div>
         <div className="col-lg-6 p-3">
         <p className='small-title'>About Company</p>
