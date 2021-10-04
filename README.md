@@ -15,7 +15,7 @@ This project was build with with
 
 basically it is a online lerning platform .
 
-### voew this application 
+### view this application 
 
 Runs the app in the development mode.\
 Open (https://festive-knuth-fcefd1.netlify.app/home) to view it in the browser.
